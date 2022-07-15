@@ -1,1 +1,1 @@
-# JDBCProgrammming
+# Java Database Connectivity Programmming
